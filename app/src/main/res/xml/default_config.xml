@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap> <!-- Firebase Console의 원격을 이용해 변경할 파라미터 관리-->
+    <entry>
+        <key>splash_background</key> <!--splash 배경색 지정-->
+        <value>#FFFB8530</value>
+    </entry>
+    <entry>
+        <key>splash_message_caps</key> <!-- 메시지 띄우기-->
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>splash_message</key> <!--메시지 내용 관리-->
+        <value>서버 점검 중입니다.</value>
+    </entry>
+
+</defaultsMap>
+    <!-- END xml_defaults -->

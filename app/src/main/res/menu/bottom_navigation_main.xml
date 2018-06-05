@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_people"
+        android:icon="@drawable/ic_people_black_24"
+        android:title="People"
+        android:fontFamily="@font/notosans_bold"/>
+
+    <item
+        android:id="@+id/action_chat"
+        android:icon="@drawable/ic_chat_black_24"
+        android:title="Chat"
+        android:fontFamily="@font/notosans_bold"/>
+
+    <item
+        android:id="@+id/action_quit"
+        android:icon="@drawable/ic_quit_black_24"
+        android:title="Quit"
+        android:fontFamily="@font/notosans_bold"/>
+
+</menu>

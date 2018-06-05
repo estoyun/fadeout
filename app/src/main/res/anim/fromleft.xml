@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 왼쪽에 있는 액티비티 화면이 오른쪽 현재 화면으로 밀려오기 -->
+    <translate
+        android:duration="300"
+        android:fromXDelta="-100%" android:toXDelta="0"
+        android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+</set>

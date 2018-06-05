@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "583273128978",
+    "firebase_url": "https://fadeoutsubstudy.firebaseio.com",
+    "project_id": "fadeoutsubstudy",
+    "storage_bucket": "fadeoutsubstudy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583273128978:android:b680c2daec7a8904",
+        "android_client_info": {
+          "package_name": "kr.co.company.fadeoutsubstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583273128978-1dhv7ism866mumc72av8sde5110sjne3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.company.fadeoutsubstudy",
+            "certificate_hash": "c8c984967ed464742dd16f9ce664faee8786ddc5"
+          }
+        },
+        {
+          "client_id": "583273128978-64dfuihssefpadm8uoicb7tl2n2md9fp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "583273128978-64dfuihssefpadm8uoicb7tl2n2md9fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHs0w5hkT6RccPpQaRf3op_1MORyciJ9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583273128978-64dfuihssefpadm8uoicb7tl2n2md9fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

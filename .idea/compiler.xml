@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_ADDITIONAL_VM_OPTIONS" value="-XX:MaxHeapSize=256m - Xmx256m  출처: http://sanghosuh.tistory.com/entry/Gradle-sync-failed-해결방법 [Sangho Suh]" />
+  </component>
+</project>
